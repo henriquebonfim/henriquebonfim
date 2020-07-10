@@ -1,4 +1,100 @@
-### Hi there 👋
+<h1 align=center> Hi there. Welcome to my Github profile! 👋🤓</h1>
+
+<p align=center>
+  <img alt="i'm online" src="https://img.shields.io/website?label=I%27m&style=plastic&up_message=online&url=https%3A%2F%2Fhp-bonfim.web.app%2F">
+  <a  href="https://github.com/hpbonfim?tab=repositories">
+    <img src="https://img.shields.io/badge/check%20out%20my-projects-000000?style=plastic" alt="my website"/>
+  </a>
+</p>
+
+<h5 align=center>Be my guest to see all the projects I've been crafting on and don't forget to check out all the social networks below. </h5>
+
+<span align=center>
+    <a href="https://hp-bonfim.web.app/">
+      <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
+    </a>
+    <a href="https://linkedin.com/in/hpbonfim/">
+      <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+    </a>
+    <a href="https://instagram.com/hpbonfim/">
+      <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
+    </a>
+    <a href="https://github.com/hpbonfim">
+      <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
+    </a>
+ </span>
+<hr>
+
+```
+#!bin/bash 💾
+💻 I'm Henrique and this is my humble workplace, 
+💕 where I love to spend long hours of the day studying and writing codes, 
+🏅 always trying to improve my skills and refresh my awareness of quality work and well-done codes...
+
+🎶 I also like to write and create some songs,
+🎸 I play piano and guitar and with this duo 
+🎹 I can relax in my spare time and free my mind from stressful days.
+
+🌱 Don't forget... Life is too short to live doing what you don't like, 
+🌳 take advantage of opportunities to always learn new things and enjoy yourself! 
+
+🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
+```
+<hr>
+<span align=center>
+   <p>hope u have an awesome life! 😄</p>
+  <img src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
+</span>
+<p align=center>Made with ❤️ by Henrique Bonfim</p>
+<hr>
+<h2 align=center>My Knowledge Tree</h2>
+<span align=center>
+  <h5 align=center>Dev Tools:  </h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Visual%20Studio%20Code-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=visual-studio-code">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Insomnia-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=insomnia">
+</span>
+<hr>
+<span align=center>
+  <h5 align=center>Top cloud technologies I work with: </h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/AWS-4.2 / 5-41454A?style=flat&logo=amazon-aws">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Google Cloud-4.0 / 5-41454A?style=flat&logo=google-cloud">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Azure-3.8 / 5-41454A?style=flat&logo=microsoft-azure">
+</span>
+<hr>
+<span align=center>
+  <h5 align=center>Top Languages <i>"or almost languages"</i> I work with: </h5>
+  <h5>Back-end</h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Javascript-4.9 / 5-41454A?style=flat&logo=javascript">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Typescript-4.8 / 5-41454A?style=flat&logo=typescript">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Python-4.0 / 5-41454A?style=flat&logo=python">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/PHP-3.5 / 5-41454A?style=flat&logo=php">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/C / C++-3.5 / 5-41454A?style=flat&logo=c">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Java-3.2 / 5-41454A?style=flat&logo=java">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/.NET-3.0 / 5-41454A?style=flat&logo=.net">
+
+  <h5>Front-end</h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/HTML-5 / 5-41454A?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/CSS-4.9 / 5-41454A?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/JQuery-4.8 / 5-41454A?style=flat&logo=jquery">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Angular-4.5 / 5-41454A?style=flat&logo=angular">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/React-4.4 / 5-41454A?style=flat&logo=react">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Vue-4.0 / 5-41454A?style=flat&logo=vue.js">
+
+  <h5>Database</h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/MongoDB-4.5 / 5-41454A?style=flat&logo=mongodb">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/MySQL-4.2 / 5-41454A?style=flat&logo=mysql">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Redis-4.0 / 5-41454A?style=flat&logo=redis">
+
+  <h5>Mobile</h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/React%20Native-4.0 / 5-41454A?style=flat&logo=react">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Android-3.0 / 5-41454A?style=flat&logo=android">
+
+  <h5>OS</h5>
+  <img alt="GitHub top language" src="https://img.shields.io/badge/Ubuntu-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=ubuntu">
+
+</span>
+<hr>
+
 
 <!--
 **hpbonfim/hpbonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
