@@ -2,7 +2,7 @@
 
 <p align=center>
   <img alt="i'm online" src="https://img.shields.io/website?label=I%27m&style=plastic&up_message=online&url=https%3A%2F%2Fhp-bonfim.web.app%2F">
-  <a  href="https://github.com/hpbonfim?tab=repositories">
+  <a href="https://github.com/hpbonfim?tab=repositories">
     <img src="https://img.shields.io/badge/check%20out%20my-projects-000000?style=plastic" alt="my website"/>
   </a>
 </p>
@@ -43,7 +43,9 @@
 <hr>
 <p align=center>
    <b>hope u have an awesome life! 😄</b>
-  <img src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
+</p>
+<p align=center>
+  <img align=center src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
 </p>
 <p align=center>Made with ❤️ by Henrique Bonfim</p>
 <hr>
