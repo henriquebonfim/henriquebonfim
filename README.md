@@ -24,6 +24,7 @@
   </a>
 </p>
 <hr>
+
 ```
 #!bin/bash 💾
 💻 I'm Henrique and this is my humble workplace, 
@@ -39,6 +40,7 @@
 
 🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
 ```
+
 <hr>
 <p align=center>
    <b>hope u have an awesome life! 😄</b>
