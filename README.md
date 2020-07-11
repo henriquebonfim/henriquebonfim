@@ -64,7 +64,7 @@
 </p>
 <hr>
 <h5 align=center>Top Languages <i>"or almost languages"</i> I work with: </h5>
-<h5>Back-end</h5>
+<h5 align=center>Back-end</h5>
 <p align=center>
   <img alt="GitHub top language" src="https://img.shields.io/badge/Javascript-4.9 / 5-41454A?style=flat&logo=javascript">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Typescript-4.8 / 5-41454A?style=flat&logo=typescript">
@@ -74,7 +74,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/badge/Java-3.2 / 5-41454A?style=flat&logo=java">
   <img alt="GitHub top language" src="https://img.shields.io/badge/.NET-3.0 / 5-41454A?style=flat&logo=.net">
 </p>
-<h5>Front-end</h5>
+<h5 align=center>Front-end</h5>
 <p align=center>
   <img alt="GitHub top language" src="https://img.shields.io/badge/HTML-5 / 5-41454A?style=flat">
   <img alt="GitHub top language" src="https://img.shields.io/badge/CSS-4.9 / 5-41454A?style=flat">
@@ -83,18 +83,18 @@
   <img alt="GitHub top language" src="https://img.shields.io/badge/React-4.4 / 5-41454A?style=flat&logo=react">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Vue-4.0 / 5-41454A?style=flat&logo=vue.js">
 </p>
-<h5>Database</h5>
+<h5 align=center>Database</h5>
 <p align=center>
   <img alt="GitHub top language" src="https://img.shields.io/badge/MongoDB-4.5 / 5-41454A?style=flat&logo=mongodb">
   <img alt="GitHub top language" src="https://img.shields.io/badge/MySQL-4.2 / 5-41454A?style=flat&logo=mysql">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Redis-4.0 / 5-41454A?style=flat&logo=redis">
 </p>
-<h5>Mobile</h5>
+<h5 align=center>Mobile</h5>
 <p align=center>
   <img alt="GitHub top language" src="https://img.shields.io/badge/React%20Native-4.0 / 5-41454A?style=flat&logo=react">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Android-3.0 / 5-41454A?style=flat&logo=android">
 </p>
-<h5>OS</h5>
+<h5 align=center>OS</h5>
 <p align=center>
   <img alt="GitHub top language" src="https://img.shields.io/badge/Ubuntu-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=ubuntu">
 </p>
