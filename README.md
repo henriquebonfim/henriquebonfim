@@ -10,21 +10,20 @@
 <h5 align=center>Be my guest to see all the projects I've been crafting on and don't forget to check out all the social networks below. </h5>
 
 <p align=center>
-    <a href="https://hp-bonfim.web.app/">
-      <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
-    </a>
-    <a href="https://instagram.com/hpbonfim/">
-      <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
-    </a>
-    <a href="https://linkedin.com/in/hpbonfim/">
-      <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-    </a>
-    <a href="https://github.com/hpbonfim">
-      <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
-    </a>
- </p>
+  <a href="https://github.com/hpbonfim">
+    <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
+  </a>
+  <a href="https://linkedin.com/in/hpbonfim/">
+    <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/hpbonfim/">
+    <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://hp-bonfim.web.app/">
+    <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
+  </a>
+</p>
 <hr>
-
 ```
 #!bin/bash 💾
 💻 I'm Henrique and this is my humble workplace, 
