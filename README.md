@@ -9,7 +9,7 @@
 
 <h5 align=center>Be my guest to see all the projects I've been crafting on and don't forget to check out all the social networks below. </h5>
 
-<span align=center>
+<p align=center>
     <a href="https://hp-bonfim.web.app/">
       <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
     </a>
@@ -22,7 +22,7 @@
     <a href="https://github.com/hpbonfim">
       <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
     </a>
- </span>
+ </p>
 <hr>
 
 ```
@@ -41,25 +41,25 @@
 🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
 ```
 <hr>
-<span align=center>
+<p align=center>
    <p>hope u have an awesome life! 😄</p>
   <img src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
-</span>
+</p>
 <p align=center>Made with ❤️ by Henrique Bonfim</p>
 <hr>
 <h2 align=center>My Knowledge Tree</h2>
-<span align=center>
+<p align=center>
   <h5 align=center>Dev Tools:  </h5>
   <img alt="GitHub top language" src="https://img.shields.io/badge/Visual%20Studio%20Code-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=visual-studio-code">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Insomnia-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=insomnia">
-</span>
+</p>
 <hr>
-<span align=center>
+<p align=center>
   <h5 align=center>Top cloud technologies I work with: </h5>
   <img alt="GitHub top language" src="https://img.shields.io/badge/AWS-4.2 / 5-41454A?style=flat&logo=amazon-aws">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Google Cloud-4.0 / 5-41454A?style=flat&logo=google-cloud">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Azure-3.8 / 5-41454A?style=flat&logo=microsoft-azure">
-</span>
+</p>
 <hr>
 <span align=center>
   <h5 align=center>Top Languages <i>"or almost languages"</i> I work with: </h5>
