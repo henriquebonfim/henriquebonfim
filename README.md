@@ -1,4 +1,4 @@
-<h1 align=center> Hi there. Welcome to my Github profile! 👋🤓</h1>
+<h1 align=center> Hi there. 👋🤓<br/> Welcome to my Github profile! </h1>
 
 <p align=center>
   <img alt="i'm online" src="https://img.shields.io/website?label=I%27m&style=plastic&up_message=online&url=https%3A%2F%2Fhp-bonfim.web.app%2F">
