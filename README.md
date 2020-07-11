@@ -50,8 +50,9 @@
 <p align=center>Made with ❤️ by Henrique Bonfim</p>
 <hr>
 <h2 align=center>My Knowledge Tree</h2>
+
+  <h5 align=center>Dev Tools </h5>
 <p align=center>
-  <h5 align=center>Dev Tools:  </h5>
   <img alt="GitHub top language" src="https://img.shields.io/badge/Visual%20Studio%20Code-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=visual-studio-code">
   <img alt="GitHub top language" src="https://img.shields.io/badge/Insomnia-⭐ ⭐ ⭐ ⭐ ⭐-41454A?style=flat&logo=insomnia">
 </p>
