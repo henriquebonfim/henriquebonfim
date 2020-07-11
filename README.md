@@ -42,7 +42,7 @@
 ```
 <hr>
 <p align=center>
-   <p>hope u have an awesome life! 😄</p>
+   <b>hope u have an awesome life! 😄</b>
   <img src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
 </p>
 <p align=center>Made with ❤️ by Henrique Bonfim</p>
