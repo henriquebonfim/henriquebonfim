@@ -60,6 +60,7 @@
 </p>
 <p align=center>Made with ❤️ by Henrique Bonfim</p>
 <hr>
+<!--
 <h2 align=center>My Knowledge Tree</h2>
 <h5 align=center>Dev Tools </h5>
 <p align=center>
@@ -111,8 +112,6 @@
 </p>
 <hr>
 
-
-<!--
 **hpbonfim/hpbonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
