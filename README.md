@@ -37,8 +37,8 @@
 
 ```
 #!bin/bash 💾
-💻 I'm Henrique and this is my humble workplace, 
-💕 where I love to spend long hours of the day studying and writing codes, 
+💻 I'm Henrique and this is my humble workplace. 
+💕 I love to spend long hours of the day studying and writing codes, 
 🏅 always trying to improve my skills and refresh my awareness of quality work and well-done codes...
 
 🎶 I also like to write and create some songs,
