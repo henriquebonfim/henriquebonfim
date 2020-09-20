@@ -29,8 +29,16 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=8" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" /></td>
+      <td>
+        <a href="https://github.com/hpbonfim">
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=8" />
+         </a>
+      </td>
+      <td>
+        <a href="https://github.com/hpbonfim">
+          <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
+        </a>
+    </td>
   </tr>   
 </table>
 </center>
