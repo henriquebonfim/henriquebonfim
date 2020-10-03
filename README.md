@@ -31,7 +31,7 @@
   <tr>
       <td>
         <a href="https://github.com/hpbonfim">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=10" />
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
          </a>
       </td>
       <td>
