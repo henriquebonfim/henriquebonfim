@@ -1,10 +1,15 @@
 <h1 align=center> Hi there. 👋🤓<br/> Welcome to my Github profile! </h1>
 
 <p align=center>
-  <img alt="i'm online" src="https://img.shields.io/website?label=I%27m&style=plastic&up_message=online&url=https%3A%2F%2Fhp-bonfim.web.app%2F">
-  <a href="https://github.com/hpbonfim?tab=repositories">
-    <img src="https://img.shields.io/badge/check%20out%20my-projects-000000?style=plastic" alt="my website"/>
-  </a>
+    <a href="https://hpbonfim.ninja">
+      <img alt="i'm online" src="https://img.shields.io/website?label=I%27m&style=plastic&up_message=online&url=https%3A%2F%2Fhp-bonfim.web.app%2F">
+    </a>
+    <a href="https://github.com/hpbonfim?tab=repositories">
+      <img src="https://img.shields.io/badge/check%20out%20my-projects-000000?style=plastic" alt="my website"/>
+    </a>
+    <a href="https://hpbonfim.ninja">
+      <img alt="Code Lover" src="https://img.shields.io/badge/Code-%20%20💕%20Lover-fff000?style=plastic" alt="my website"/>
+    </a>
 </p>
 
 <h5 align=center>Be my guest to see all the projects I've been crafting on and don't forget to check out all social networks below. </h5>
@@ -45,7 +50,8 @@
 
 ```
 #!bin/bash 💾
-💻 I'm Henrique and this is my humble workplace. 
+💻 I'm Henrique and this is my humble workplace.
+🌱 Undergraduate in Information Systems At UFMS (Federal University of Mato Grosso do Sul)
 💕 I love to spend long hours of the day studying and writing codes, 
 🏅 always trying to improve my skills and refresh my awareness of quality work and well-done codes...
 
