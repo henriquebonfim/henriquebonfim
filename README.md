@@ -1,4 +1,4 @@
-<h1 align=center> Hi there. 👋🤓<br/> Welcome to my Github profile! </h1>
+<h1 align=center> Hi there. <img src="https://ezgif.com/images/loadcat.gif"/><br/> Welcome to my Github profile! </h1>
 
 <p align=center>
     <a href="https://hpbonfim.ninja">
