@@ -1,4 +1,4 @@
-<h1 align=center> Hi there. <img src="https://ezgif.com/images/loadcat.gif"/><br/> Welcome to my Github profile! </h1>
+<h1 align=center> Hi there. <img src="./loadcat.gif"/><br/> Welcome to my Github profile! </h1>
 
 <p align=center>
     <a href="https://hpbonfim.ninja">
@@ -36,7 +36,7 @@
   <tr>
       <td>
         <a href="https://github.com/hpbonfim">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=12" />
          </a>
       </td>
       <td>
