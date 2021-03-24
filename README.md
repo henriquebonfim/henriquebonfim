@@ -50,15 +50,17 @@
 ```
 
 
-<div align=center>
+<p align=center>
         <a href="https://github.com/hpbonfim">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
          </a>
-<br/>
-<a href="https://github.com/hpbonfim">
-          <img width="495px" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
+</p>
+
+<p align=center>
+        <a href="https://github.com/hpbonfim">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
         </a>
-</div>
+</p>
 
 
 
