@@ -52,13 +52,13 @@
 
 <p align=center>
         <a href="https://github.com/hpbonfim">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
+          <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
          </a>
 </p>
 
 <p align=center>
         <a href="https://github.com/hpbonfim">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
+          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
         </a>
 </p>
 
