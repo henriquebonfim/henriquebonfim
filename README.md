@@ -51,19 +51,15 @@
 
 
 <div align=center>
-  <tr>
-      <td>
         <a href="https://github.com/hpbonfim">
           <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
          </a>
-      </td>
-      <td>
-        <a href="https://github.com/hpbonfim">
+<br/>
+<a href="https://github.com/hpbonfim">
           <img width="495px" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
         </a>
-    </td>
-  </tr>   
-</center>
+</div>
+
 
 
 
