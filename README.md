@@ -50,7 +50,7 @@
 ```
 
 
-<center>
+<div align=center>
   <tr>
       <td>
         <a href="https://github.com/hpbonfim">
