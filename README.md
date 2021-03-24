@@ -30,22 +30,7 @@
 </p>
 <hr>
 
-<center>
-<table>
-  <tr>
-      <td>
-        <a href="https://github.com/hpbonfim">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=12" />
-         </a>
-      </td>
-      <td>
-        <a href="https://github.com/hpbonfim">
-          <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
-        </a>
-    </td>
-  </tr>   
-</table>
-</center>
+
 
 ```
 #!bin/bash 💾
@@ -64,15 +49,24 @@
 🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
 ```
 
-<hr>
-<p align=center>
-   <b>hope u have an awesome life! 😄</b>
-</p>
-<p align=center>
-  <img align=center src="https://splashpages.files.wordpress.com/2015/06/dcmlife.gif?w=840" alt="life"/>
-</p>
-<p align=center>Made with ❤️ by Henrique Bonfim</p>
-<hr>
+<div>
+<center>
+  <tr>
+      <td>
+        <a href="https://github.com/hpbonfim">
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
+         </a>
+      </td>
+      <td>
+        <a href="https://github.com/hpbonfim">
+          <img width="495px" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
+        </a>
+    </td>
+  </tr>   
+</center>
+</div>
+
+
 <!--
 <h2 align=center>My Knowledge Tree</h2>
 <h5 align=center>Dev Tools </h5>
