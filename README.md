@@ -1,4 +1,7 @@
 <h1 align=center> Hi there. <img src="./loadcat.gif"/><br/> Welcome to my Github profile! </h1>
+<div align=center>
+<img src='https://github.githubassets.com/images/mona-loading-default.gif' />
+</div>
 
 <p align=center>
     <a href="https://hpbonfim.ninja">
