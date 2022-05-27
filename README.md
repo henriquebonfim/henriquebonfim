@@ -36,15 +36,8 @@
 
 
 ```
-#!bin/bash 💾
+#!/bin/bash 
 💻 I'm Henrique and this is my humble workplace.
-🌱 Undergraduate in Information Systems At UFMS (Federal University of Mato Grosso do Sul)
-💕 I love to spend long hours of the day studying and writing codes, 
-🏅 always trying to improve my skills and refresh my awareness of quality work and well-done codes...
-
-🎶 I also like to write and create some songs,
-🎸 I play piano and guitar and with this duo 
-🎹 I can relax in my spare time and free my mind from stressful days.
 
 🌱 Don't forget... Life is too short to live doing what you don't like, 
 🌳 take advantage of opportunities to always learn new things and enjoy yourself! 
@@ -52,18 +45,26 @@
 🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
 ```
 
-
-<p align=center>
+<table align=center width='100'>
+        <th colspan="2" align=left>
+        </th>
+<tr>
+        <th>
         <a href="https://github.com/hpbonfim">
-          <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
          </a>
-</p>
-
-<p align=center>
+        </th>
+        <th>
         <a href="https://github.com/hpbonfim">
-          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
         </a>
-</p>
+    </th>
+    </tr>
+
+<tr>
+    
+</tr>
+</table>
 
 
 
