@@ -1,4 +1,4 @@
-<h1 align=center> Hi there. <img src="./loadcat.gif"/><br/> Welcome to my Github profile! </h1>
+<h1 align=center>Welcome to my Github profile! </h1>
 <div align=center>
 <img width='100' src='https://github.githubassets.com/images/mona-loading-default.gif' />
 </div>
@@ -70,6 +70,7 @@
 
 
 <!--
+<img width='30' src="./loadcat.gif"/> 
 <h2 align=center>My Knowledge Tree</h2>
 <h5 align=center>Dev Tools </h5>
 <p align=center>
