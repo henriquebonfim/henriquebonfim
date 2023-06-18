@@ -3,18 +3,6 @@
 <img width='100' src='https://github.githubassets.com/images/mona-loading-default.gif' />
 </div>
 
-<p align=center>
-    <a href="https://hpbonfim.web.app">
-      <img alt="online" src="https://img.shields.io/website?style=plastic&up_message=here&url=https%3A%2F%2Fhpbonfim.web.app%2F">
-    </a>
-    <a href="https://github.com/hpbonfim?tab=repositories">
-      <img src="https://img.shields.io/badge/check%20out%20my-projects-000000?style=plastic" alt="my website"/>
-    </a>
-    <a href="https://hpbonfim.ninja">
-      <img alt="Code Lover" src="https://img.shields.io/badge/Code-%20%20💕%20Lover-fff000?style=plastic" alt="my website"/>
-    </a>
-</p>
-
 <h5 align=center>Be my guest to see all the projects I've been crafting on and don't forget to check out all social networks below. </h5>
 
 <p align=center>
@@ -24,12 +12,16 @@
   <a href="https://linkedin.com/in/hpbonfim/">
     <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/hpbonfim/">
+<!--   <a href="https://instagram.com/hpbonfim/">
     <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
-  </a>
-  <a href="https://hpbonfim.web.app/">
+  </a> -->
+     <a href="https://hpbonfim.web.app/">
     <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
   </a>
+  <a href="https://dockerhub.com/in/hpbonfim)">
+    <img src="https://img.shields.io/badge/public%20packages-dockerhub-0077B5?style=for-the-badge&logo=docker" alt="dockerhub"/>
+  </a>
+ 
 </p>
 <hr>
 
@@ -44,28 +36,6 @@
 
 🎆 “Be the change that you wish to see in the world.” ― Mahatma Gandhi
 ```
-
-<table align=center width='100'>
-        <th colspan="2" align=left>
-        </th>
-<tr>
-        <th>
-        <a href="https://github.com/hpbonfim">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpbonfim&hide=html&layout=compact&langs_count=11" />
-         </a>
-        </th>
-        <th>
-        <a href="https://github.com/hpbonfim">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hpbonfim&theme=default&count_private=true&show_icons=true&hide=stars" />
-        </a>
-    </th>
-    </tr>
-
-<tr>
-    
-</tr>
-</table>
-
 
 
 
