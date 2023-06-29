@@ -18,7 +18,7 @@
      <a href="https://hpbonfim.web.app/">
     <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
   </a>
-  <a href="https://dockerhub.com/in/hpbonfim)">
+  <a href="https://dockerhub.com/in/hpbonfim">
     <img src="https://img.shields.io/badge/public%20packages-dockerhub-0077B5?style=for-the-badge&logo=docker" alt="dockerhub"/>
   </a>
  
