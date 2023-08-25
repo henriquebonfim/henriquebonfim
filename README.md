@@ -9,13 +9,13 @@
  <!--  <a href="https://github.com/hpbonfim">
     <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
   </a>  -->
-  <a href="https://linkedin.com/in/hpbonfim/">
+  <a href="https://linkedin.com/in/henriquebonfim/">
     <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
 <!--   <a href="https://instagram.com/hpbonfim/">
     <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
   </a> -->
-     <a href="https://hpbonfim.web.app/">
+     <a href="https://henriquebonfim.web.app/">
     <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
   </a>
   <a href="https://hub.docker.com/u/hpbonfim">
