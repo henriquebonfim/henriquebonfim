@@ -1,7 +1,3 @@
-# EVA
-
-### Evaluator Project
-
 <p align=center>
    <a href="https://github.com/hpbonfim">
     <img src="https://img.shields.io/badge/Follow%20me-github-181717?style=for-the-badge&logo=github" alt="github"/>
