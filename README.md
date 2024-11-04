@@ -35,13 +35,11 @@ Hey there! So, let me tell you a bit about my journey in the tech world.
 
 My love for technology began in 2010 when I stumbled upon some free programming classes online and started practicing almost every day, crafting blogs and websites just for fun. 
 
-This passion led me to pursue a degree in System Analysis at UFMS, obtain certifications from freeCodeCamp, selected for the AWS re/Start program in 2023 and Google Cloud Get Certified in 2024.
-
-Throughout my career, I've worn many hats – from being an event monitor in college to working as an IT assistant.
-
-But what really got me going was software development. I've been busy crafting blogs, APIs, websites, and more. And hey, guess what? Now I'm diving into the world of cloud engineering!
+Throughout my career, I've worn many hats – from being a Computer Technical Support in 2013 into now...
 
 With almost +10 years of experience under my belt as software engineer, I can honestly say I've been having a blast! It's been a journey filled with hands-on experience and tons of learning along the way.
+
+But what really got me going was software development. I've been busy crafting blogs, APIs, websites, and more. And hey, guess what? Now I'm diving into the world of cloud engineering!
 
 As a self-proclaimed Node.js enthusiast, I've even participated in programming competitions and contributed to various open-source projects.
 
