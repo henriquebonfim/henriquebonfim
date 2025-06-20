@@ -29,30 +29,6 @@
 
 ---
 
-### 🌐 About Me
-
-Hey there! So, let me tell you a bit about my journey in the tech world.
-
-My love for technology began in 2010 when I stumbled upon some free programming classes online and started practicing almost every day, crafting blogs and websites just for fun. 
-
-Throughout my career, I've worn many hats – from being a Computer Technical Support in 2013 into now...
-
-With almost +10 years of experience under my belt as software engineer, I can honestly say I've been having a blast! It's been a journey filled with hands-on experience and tons of learning along the way.
-
-But what really got me going was software development. I've been busy crafting blogs, APIs, websites, and more. And hey, guess what? Now I'm diving into the world of cloud engineering!
-
-As a self-proclaimed Node.js enthusiast, I've even participated in programming competitions and contributed to various open-source projects.
-
-Now, I'm itching for new opportunities to shift gears from problem-solving to crafting the best projects with my experience.
-
-My drive? Solving tough challenges! I'm all about striving for software greatness, focusing on solutions that bring stability, efficiency, and that perfect cost/benefit balance.
-
-When I’m not coding, I enjoy creating music, which you can check out on my [SoundCloud](https://soundcloud.com/hpbonfim).
-
----
-
-### 📫 Let's Connect
-
 This brief introduction only scratches the surface. I’m always open to connecting with fellow tech enthusiasts and exploring new challenges. Reach out on [LinkedIn](https://linkedin.com/in/henriquebonfim/) or visit my [website](https://henriquebonfim.web.app/)!
 
 Google Cloud Skills Boost: 
@@ -62,7 +38,7 @@ Personal Portfolio:
 https://henriquebonfim.web.app/
 
 GitHub: 
-https://github.com/hpbonfim
+https://github.com/henriquebonfim
 
 GitLab: 
 https://gitlab.com/hpbonfim
@@ -89,6 +65,7 @@ https://www.holopin.io/@hpbonfim
 ![Nest.js](https://img.shields.io/badge/Nest.js-✅-41454A?style=flat&logo=nestjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-✅-41454A?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-✅-41454A?style=flat&logo=django) 
+![Flask](https://img.shields.io/badge/Flask-✅-41454A?style=flat&logo=flask) 
 ![Spring](https://img.shields.io/badge/Spring-✅-41454A?style=flat&logo=spring)
 
 #### Cross-Platform
