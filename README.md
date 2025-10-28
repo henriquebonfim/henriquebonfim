@@ -14,6 +14,9 @@
 
 ---
 
+[![An image of @hpbonfim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hpbonfim)](https://holopin.io/@hpbonfim)
+
+
 <p align="center">
   <a href="https://github.com/hpbonfim">
     <img src="https://img.shields.io/badge/Follow%20me-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -28,9 +31,6 @@
     <img src="https://img.shields.io/badge/Public%20Packages-DockerHub-0077B5?style=for-the-badge&logo=docker" alt="DockerHub"/>
   </a>
 </p>
-
-[![An image of @hpbonfim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hpbonfim)](https://holopin.io/@hpbonfim)
-
 
 This brief introduction only scratches the surface. I’m always open to connecting with fellow tech enthusiasts and exploring new challenges. Reach out on [LinkedIn](https://linkedin.com/in/henriquebonfim/) or visit my [website](https://henriquebonfim.web.app/)!
 
