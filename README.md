@@ -56,7 +56,7 @@ CodePen:
 https://codepen.io/hpbonfim
 
 Github Pages:
-[https://](https://henriquebonfim.github.io/bio/)
+https://henriquebonfim.github.io/
 ---
 
 
